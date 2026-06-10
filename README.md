@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Louis 👋
 
-<!--
-**Nigachu069/Nigachu069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics graduate transitioning into data engineering. 
+I build ETL pipelines, automate workflows, and work with cloud infrastructure.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Python, SQL, Bash  
+**Data Engineering:** Apache Airflow, PostgreSQL, Docker  
+**Cloud:** AWS (S3, EC2, RDS, Lambda), Azure
+**Other:** Git, Linux, pandas, psycopg2, boto3, Numpy, Plotly 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- **[market-pipeline](https://github.com/Nigachu069/market-pipeline)** — Automated ETL pipeline with Airflow, AWS, and star schema PostgreSQL
+
+## 📫 Contact
+louischang1022@gmail.com | Hong Kong
